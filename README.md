@@ -32,5 +32,5 @@ https://github.com/user-attachments/assets/adb0ca79-a815-4dde-bbaa-2112af3feac6
    git clone https://github.com/Aditya41205/NFT-MINTING.git
    cd NFT-MINTING
 
-   https://github.com/
+   yarn start
 
